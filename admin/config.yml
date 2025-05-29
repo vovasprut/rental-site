@@ -1,6 +1,8 @@
 backend:
-  name: git-gateway
+  name: github
+  repo: vovasprut/rental-site
   branch: main
+  site_domain: broadcastrent.netlify.app
 
 media_folder: "assets"
 public_folder: "/assets"
