@@ -2,7 +2,7 @@ backend:
   name: github
   repo: vovasprut/rental-site
   branch: main
-  site_domain: broadcastrent.netlify.app
+  site_id: 25cc333b-02bf-414f-949a-ec4338fe8959
 
 media_folder: "assets"
 public_folder: "/assets"
