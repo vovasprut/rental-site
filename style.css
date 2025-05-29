@@ -1,0 +1,37 @@
+body {
+  font-family: sans-serif;
+  margin: 0;
+  background: #fff8dc;
+  color: #333;
+}
+header {
+  background: #ffcc00;
+  padding: 1em;
+  text-align: center;
+}
+main {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 1em;
+  gap: 1em;
+  justify-content: center;
+}
+.item {
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  background: white;
+  width: 300px;
+  padding: 1em;
+  box-shadow: 0 0 5px rgba(0,0,0,0.1);
+}
+.item img {
+  max-width: 100%;
+  border-radius: 4px;
+}
+footer {
+  background: #ffcc00;
+  text-align: center;
+  padding: 1em;
+  position: sticky;
+  bottom: 0;
+}
